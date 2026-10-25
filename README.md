@@ -1,16 +1,23 @@
-## Hi there 👋
+Hi there, I'm Nabil Fadli Azhar Aziz 👋
 
-<!--
-**Zhar28/Zhar28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior Mobile & Software Developer based in Malang, Indonesia 🇮🇩
 
-Here are some ideas to get you started:
+Graduate of Software Engineering (RPL) from SMK Telkom Malang.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 About Me
+
+📱 Focus: Mobile Application Development (Flutter / Dart / Android)
+
+🛠️ Current Projects: Building responsive mobile UI/UX, integrating RESTful APIs, and optimizing app performance.
+
+💬 Ask me about: Mobile application development, API integration, and PC hardware maintenance.
+
+🛠️ Tech Stack & Tools
+
+Languages & Frameworks:
+
+Tools & Platforms:
+
+📊 GitHub Stats
+
+📫 Connect with Me
